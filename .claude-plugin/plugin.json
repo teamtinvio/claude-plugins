@@ -1,0 +1,11 @@
+{
+  "name": "jaz-api",
+  "version": "1.13.0",
+  "description": "Complete Jaz/Juan REST API reference — field names, error catalog, request/response examples, and dependency ordering for Jaz/Juan accounting platforms",
+  "author": {
+    "name": "Jaz Engineering",
+    "url": "https://github.com/teamtinvio/claude-plugins"
+  },
+  "repository": "https://github.com/teamtinvio/claude-plugins",
+  "keywords": ["jaz", "juan", "accounting", "api", "invoicing", "singapore", "philippines"]
+}
