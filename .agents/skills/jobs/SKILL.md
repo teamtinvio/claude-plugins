@@ -1,0 +1,1 @@
+../../../src/skills/jobs/SKILL.md
